@@ -20,7 +20,7 @@
 * Clone this repo (for help see this [tutorial](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html#clone-a-repository)).
 * Install the requirements using `pip install -r requirements.txt`.
 * Make sure you use Python 3.
-* You may want to use a virtual environment for this.
+* You may want to use a virtual environment for this.github
 ---
 # Pandas Profiling
 _Click [**here**](https://jose-vincent.gitlab.io/pandas-profile-report) to see the pandas profiling_
@@ -33,7 +33,7 @@ _Click [**here**](https://jose-vincent.gitlab.io/exploratory-data-analysis) to s
 
 |**Sample Data**|
 |---|
-|![Sample Data](https://gitlab.com/jose-vincent/timeseries_analysis-of-dengue_incidence-in-trivandrum/-/raw/master/Plots/1.%20Sample%20data.png)|
+|![Sample Data](https://github.com/jose-vincent/Dengue-Prediction---Time-Series-Approches/blob/master/Plots/1.%20Sample%20data.png)|
 
 |**Reported cases over time**|
 |---|
