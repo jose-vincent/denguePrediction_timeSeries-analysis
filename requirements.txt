@@ -1,6 +1,5 @@
 fbprophet==0.6
 ipywidgets==7.5.1
-kaggle==1.5.6
 matplotlib==3.2.2
 nbconvert==5.6.1
 numpy==1.19.0
@@ -11,4 +10,9 @@ plotly==4.8.2
 scipy==1.5.1
 seaborn==0.10.1
 statsmodels==0.11.1
+lightgbm==3.0.0
+scikit-learn==0.23.2
+tensorflow==2.3.1
+prettytable==0.7.2
+
 
