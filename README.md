@@ -82,3 +82,11 @@ _Click [**here**](https://jose-vincent.github.io/plotly-Visualization/) to see t
 |**Bar race plot**|
 |---|
 |![Bar race plot](https://github.com/jose-vincent/denguePrediction_timeSeries-analysis/blob/master/Plots/12.%20Bar%20race%20plot.png)|
+
+### Predictions 
+|**ARIMA** & **Prophet**|
+|---|
+|**ARIMA**|
+|![ARIMA](https://github.com/jose-vincent/denguePrediction_timeSeries-analysis/blob/master/Plots/13.%20ARIMA_pred.png?raw=true)|
+|**Prophet**|
+|![Prophet](https://github.com/jose-vincent/denguePrediction_timeSeries-analysis/blob/master/Plots/14.%20prophet_pred.png)|
