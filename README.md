@@ -19,7 +19,7 @@
 * **_Plotly graphing library used for explanatory data analysis & visualization._**
 ---
 
-### Install the requirements
+### Hey! Feel free to 
 * Clone this repo (for help see this [tutorial](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository)).
 * Install the requirements using `pip install -r requirements.txt`.
 * Make sure you use Python 3.
