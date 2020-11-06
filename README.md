@@ -79,10 +79,6 @@ _Click [**here**](https://jose-vincent.github.io/plotly-Visualization/) to see t
 |---|
 |![Top 10 areas with most reported cases](https://github.com/jose-vincent/denguePrediction_timeSeries-analysis/blob/master/Plots/9.%20Top%2010%20areas%20with%20most%20reported%20cases.png)|
 
-|**Bar race plot**|
-|---|
-|![Bar race plot](https://github.com/jose-vincent/denguePrediction_timeSeries-analysis/blob/master/Plots/12.%20Bar%20race%20plot.png)|
-
-|**Bar race plot**|
+|**Bar race plot** Check [here](https://jose-vincent.gitlab.io/exploratory-data-analysis)|
 |---|
 |![Bar race plot](https://github.com/jose-vincent/denguePrediction_timeSeries-analysis/blob/master/Plots/12.%20Bar%20race%20plot.png)|
