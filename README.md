@@ -17,13 +17,13 @@
 ---
 
 # Install the requirements
-* Clone this repo (for help see this [tutorial](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html#clone-a-repository)).
+* Clone this repo (for help see this [tutorial](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository)).
 * Install the requirements using `pip install -r requirements.txt`.
 * Make sure you use Python 3.
 * You may want to use a virtual environment for this.
 ---
 # Pandas Profiling
-_Click [**here**](https://jose-vincent.gitlab.io/pandas-profile-report) to see the pandas profiling_
+_Click [**here**](https://jose-vincent.github.io/pandasProfileReport-/) to see the pandas profiling_
 
 Pandas profiling save us all the work of visualizing and understanding the distribution of each variable. It generates a report with all the information easily available.The generated report contains warnings that appear at the beginning. It tells us the variables that contain NaN values, variables with many zeros, categorical variables with high cardinality, etc.
 
